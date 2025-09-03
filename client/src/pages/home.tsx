@@ -1,4 +1,4 @@
-import profileImage from "@assets/ben_kelley_synthwave_1756932065805.png";
+import profileImage from "@assets/ben_kelley_synthwave_1756932286182.png";
 
 export default function Home() {
   return (
@@ -25,7 +25,7 @@ export default function Home() {
 
             {/* Tagline */}
             <p className="text-xl md:text-2xl text-retrowave-muted font-light tracking-wide max-w-3xl mx-auto leading-relaxed" data-testid="text-tagline">
-              Welcome to the AI frontier where learning meets value creation.
+              Welcome to the AI frontier! (this is a placeholder website, to test developer tools)
             </p>
 
             {/* Profile Section */}
