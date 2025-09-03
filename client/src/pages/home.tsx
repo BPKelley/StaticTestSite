@@ -5,10 +5,8 @@ export default function Home() {
     <div className="relative min-h-screen bg-retrowave-bg overflow-hidden">
       {/* Animated Stars Background */}
       <div className="stars fixed inset-0 opacity-30 pointer-events-none"></div>
-      
       {/* Grid Pattern Overlay */}
       <div className="grid-pattern fixed inset-0 pointer-events-none"></div>
-      
       {/* Main Container */}
       <div className="relative min-h-screen flex items-center justify-center p-4">
         <div className="w-full max-w-4xl mx-auto">
@@ -53,10 +51,7 @@ export default function Home() {
                   Ben Kelley
                 </h2>
                 
-                <p className="text-lg text-retrowave-card-foreground leading-relaxed" data-testid="text-bio">
-                  Product Manager exploring the intersection of AI innovation and business value. 
-                  Passionate about building tools that amplify human potential and drive meaningful outcomes.
-                </p>
+                <p className="text-lg text-retrowave-card-foreground leading-relaxed" data-testid="text-bio">Product Manager exploring the intersection of AI products & creating business value. Passionate about building tools that help humans achieve more.</p>
 
                 {/* LinkedIn Link */}
                 <div className="flex justify-center">
@@ -78,7 +73,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
       {/* Footer Credits */}
       <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2">
         <p className="text-xs text-retrowave-muted/60 text-center" data-testid="text-footer">
