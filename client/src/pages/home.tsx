@@ -28,7 +28,7 @@ export default function Home() {
               <p className="text-xl md:text-2xl text-retrowave-muted font-light tracking-wide max-w-3xl mx-auto leading-relaxed" data-testid="text-tagline">
                 Welcome to the AI frontier!
               </p>
-              <p className="text-sm md:text-base text-retrowave-muted/70 font-light tracking-wide max-w-2xl mx-auto" data-testid="text-subtitle">
+              <p className="text-sm md:text-base text-retrowave-muted/90 font-light tracking-wide max-w-2xl mx-auto" data-testid="text-subtitle">
                 (this is a placeholder website, to test AI products & developer tools)
               </p>
             </div>
